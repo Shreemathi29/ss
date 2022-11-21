@@ -1,0 +1,89 @@
+#register, #login {
+    width: 400px;
+    height: max-content;
+    border: 1px solid #d6d7da;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+    font-family: arial;
+    line-height: 16px;
+    color: #333333;
+    font-size: 14px;
+    background:purple;
+    margin: 100px auto;
+  }
+  
+  form label, form input {
+    display: block;
+    margin-bottom: 10px;
+    width: 90%;
+    color:yellow;
+  }
+  
+  form input {
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+  
+  }
+  
+  .button {
+    background-color: #00BFFF;
+    border-color:red;
+    font-weight: bold;
+    padding: 12px 15px;
+    color: #ffffff;
+  }
+  
+  .errorMsg {
+    color: #cc0000;
+    margin-bottom: 12px;
+  }
+  
+  .sucessMsg {
+    color: yellowgreen;
+  }
+  /*
+  .prop{
+    background-color: brown;
+    border-color:white;
+    font-weight: bold;
+    padding: 12px 15px;
+    color: gold;
+    text-align: center;
+  }
+  .tab{
+    border: aqua;
+    color:burlywood;
+    text-align:center ;
+  }
+  .tab1{
+    text-align:center ;
+  }
+  .head{
+    width: 400px;
+    height: max-content;
+    border: 1px solid #d6d7da;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+    font-family: arial;
+    line-height: 16px;
+    color: #333333;
+    font-size: 14px;
+    background:purple;
+    margin: 100px auto;
+    font-weight: bold;
+  }
+  .control{
+    width: 400px;
+    height: max-content;
+    border: 1px solid #d6d7da;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+    font-family: arial;
+    line-height: 16px;
+    color: #333333;
+    font-size: 14px;
+    background:goldenrod;
+    margin: 100px auto;
+    font-weight: bold;
+  }
+  */
